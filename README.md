@@ -1,6 +1,6 @@
 # Trocar a cor do site
 
-![alt text](./)
+![alt text](./Capturar.PNG)
 
 ## Sobre
 Projeto para trocar a cor da pagina utilizando o JS.

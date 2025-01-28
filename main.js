@@ -6,7 +6,7 @@ function trocarCor () {
 
     const cor = document.getElementById('cor').value
 
-    document.documentElement.style.setProperty('--cor-fundo', 'cor')
+    document.documentElement.style.setProperty('--cor-fundo', cor)
 }
 
-botaoTrocarCor.addEventListener('click', 'trocarCor')
+botaoTrocarCor.addEventListener('click', trocarCor)
